@@ -1,0 +1,28 @@
+2 giai đoạn
+machine learning
+vs deeplearning
+ML thì KNN
+báo cáo sử dụng mô hình j
+kq ntn
+luồng chạy ntn
+không dùng thư viện
+đọc thêm cái này nì
+SVM
+PCA
+Challenge
+ML phân loại data: biển báo giao thông
+phân loại 14 lớp
+thời gian từ tuần sau nữa
+challenge giai đoạn 1
+khuyến khích sd các thuật toán xử lý ảnh
+báo cáo: xử lý dữ liệu ntn, đọc kiểu j
+xd mô hình ntn
+sd ntn
+mô hình chính xác, sai sót bn %
+giai đoạn 2:
+đc sd thư viện
+tùy ý
+keras, k đc sd model có sẵn
+tự built ra mô hình riêng
+đc sd keras, tf, pytoch
+k đc sd pre_train
